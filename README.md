@@ -12,15 +12,6 @@ Features:
 - Saves attendance with time to a CSV file
 - Easy to add new people by saving their images
 
-Folder Structure:
------------------
-face_attendance/
-│
-├── Images/               -> Folder with face images of known people
-├── Attendance.csv        -> Output file (auto-created) that stores attendance logs
-├── face.py               -> Main script for face recognition and attendance
-└── README.txt            -> Project information (this file)
-
 Requirements:
 -------------
 Install these Python libraries before running:
